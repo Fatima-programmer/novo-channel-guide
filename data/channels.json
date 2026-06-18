@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "CNC3",
+    "logo": "assets/logos/cnc3.png",
+    "category": "News",
+    "package": "Basic Package",
+    "price": "$30",
+    "isActive": true,
+    "displayOrder": 1
+  },
+  {
+    "id": 2,
+    "name": "TV6",
+    "logo": "assets/logos/tv6.png",
+    "category": "Local",
+    "package": "Basic Package",
+    "price": "$30",
+    "isActive": true,
+    "displayOrder": 2
+  },
+  {
+    "id": 3,
+    "name": "CNN International",
+    "logo": "assets/logos/cnn.png",
+    "category": "News",
+    "package": "Explore Plus",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 3
+  }
+]
