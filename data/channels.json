@@ -3,7 +3,7 @@
     "id": 1,
     "name": "CNC3",
     "logo": "assets/logos/cnc3.png",
-    "category": "News",
+    "category": "Local/Regional/General",
     "package": "Basic Package",
     "price": "$30",
     "isActive": true,
@@ -13,7 +13,7 @@
     "id": 2,
     "name": "TV6",
     "logo": "assets/logos/tv6.png",
-    "category": "Local",
+    "category": "Local/Regional/General",
     "package": "Basic Package",
     "price": "$30",
     "isActive": true,
@@ -28,5 +28,695 @@
     "price": "$45",
     "isActive": true,
     "displayOrder": 3
+  },
+  {
+    "id": 4,
+    "name": "Al Jazeera",
+    "logo": "assets/logos/aljazeera.png",
+    "category": "News",
+    "package": "Explore Plus",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 4
+  }, 
+  {
+    "id": 5,
+    "name": "BBC World News",
+    "logo": "assets/logos/bbcworldnews.png",
+    "category": "News",
+    "package": "Explore Plus",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 5
+  },
+  {
+    "id": 6,
+    "name": "ABC",
+    "logo": "assets/logos/abc.png",
+    "category": "News",
+    "package": "Explore Plus",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 6
+  },
+  {
+    "id": 7,
+    "name": "CBC - Toronto",
+    "logo": "assets/logos/cbc-toronto.png",
+    "category": "News",
+    "package": "Explore Plus",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 7
+  },
+  {
+    "id": 8,
+    "name": "CBS",
+    "logo": "assets/logos/cbs.png",
+    "category": "News",
+    "package": "Explore Plus",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 8
+  },
+  {
+    "id": 9,
+    "name": "Fox News",
+    "logo": "assets/logos/foxnews.png",
+    "category": "News",
+    "package": "Explore Plus",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 9
+  },
+  {
+    "id": 10,
+    "name": "CNN Domestic",
+    "logo": "assets/logos/cnndomestic.png",
+    "category": "News",
+    "package": "Explore Plus",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 10
+  },
+  {
+    "id": 11,
+    "name": "Headline News",
+    "logo": "assets/logos/headlinenews.png",
+    "category": "News",
+    "package": "Explore Plus",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 11
+  },
+  {
+    "id": 12,
+    "name": "TTT",
+    "logo": "assets/logos/ttt.png",
+    "category": "Local/Regional/General",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 12
+  },
+  {
+    "id": 13,
+    "name": "TIN",
+    "logo": "assets/logos/tin.png",
+    "category": "Local/Regional/General",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 13
+  },
+  {
+    "id": 14,
+    "name": "Parliament Channel",
+    "logo": "assets/logos/parliamentchannel.png",
+    "category": "Local/Regional/General",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 14
+  },
+  {
+    "id": 15,
+    "name": "Government Information Channel",
+    "logo": "assets/logos/governmentinformationchannel.png",
+    "category": "Local/Regional/General",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 15
+  },
+  {
+    "id": 16,
+    "name": "Tobago Ch 5",
+    "logo": "assets/logos/tobagoch5.png",
+    "category": "Local/Regional/General",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 16
+  },
+  {
+    "id": 17,
+    "name": "Synergy TV",
+    "logo": "assets/logos/synergytv.png",
+    "category": "Local/Regional/General",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 17
+  },
+  {
+    "id": 18,
+    "name": "WESC",
+    "logo": "assets/logos/wesc.png",
+    "category": "Local/Regional/General",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 18
+  },
+  {
+    "id": 19,
+    "name": "IAN",
+    "logo": "assets/logos/ian.png",
+    "category": "Local/Regional/General",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 19
+  },
+  {
+    "id": 20,
+    "name": "Smile",
+    "logo": "assets/logos/smile.png",
+    "category": "Local/Regional/General",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 20
+  },
+  {
+    "id": 21,
+    "name": "EWTN",
+    "logo": "assets/logos/ewtm.png",
+    "category": "Religious",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 22
+  },
+  {
+    "id": 22,
+    "name": "Trinity TV",
+    "logo": "assets/logos/trinitytv.png",
+    "category": "Religious",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 22
+  },
+  {
+    "id": 23,
+    "name": "3ABN",
+    "logo": "assets/logos/3abn.png",
+    "category": "Religious",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 23
+  },
+  {
+    "id": 24,
+    "name": "IBN",
+    "logo": "assets/logos/ttt.png",
+    "category": "Religious",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 24
+  },
+  {
+    "id": 25,
+    "name": "Jagriti TV",
+    "logo": "assets/logos/jagrititv.png",
+    "category": "Religious",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 25
+  },
+  {
+    "id": 26,
+    "name": "Sankeyah TV",
+    "logo": "assets/logos/sankeyahtv.png",
+    "category": "Religious",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 26
+  },
+  {
+    "id": 27,
+    "name": "TBN Inspire",
+    "logo": "assets/logos/tbninspire.png",
+    "category": "Religious",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 27
+  },
+  {
+    "id": 28,
+    "name": "TBN",
+    "logo": "assets/logos/tbn.png",
+    "category": "Religious",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 28
+  },
+  {
+    "id": 29,
+    "name": "Daystar",
+    "logo": "assets/logos/daystar.png",
+    "category": "Religious",
+    "package": "Basic Package",
+    "price": "$45",
+    "isActive": true,
+    "displayOrder": 29
+  },
+  {
+    "id": 30,
+    "name": "Discovery Kids",
+    "logo": "assets/logos/discoverykids.png",
+    "category": "Kids/Family",
+    "package": "Disney Pack",
+    "price": "$70",
+    "isActive": true,
+    "displayOrder": 30
+  },
+  {
+    "id": 31,
+    "name": "Boomerang",
+    "logo": "assets/logos/boomerang.png",
+    "category": "Kids/Family",
+    "package": "Disney Pack",
+    "price": "$70",
+    "isActive": true,
+    "displayOrder": 31
+  },
+  {
+    "id": 32,
+    "name": "Cartoon Network",
+    "logo": "assets/logos/cartoonnetwork.png",
+    "category": "Kids/Family",
+    "package": "Disney Pack",
+    "price": "$70",
+    "isActive": true,
+    "displayOrder": 32
+  },
+  {
+    "id": 33,
+    "name": "Disney JR",
+    "logo": "assets/logos/disneyjr.png",
+    "category": "Kids/Family",
+    "package": "Disney Pack",
+    "price": "$70",
+    "isActive": true,
+    "displayOrder": 33
+  },
+  {
+    "id": 34,
+    "name": "Disney XD",
+    "logo": "assets/logos/disneyxd.png",
+    "category": "Kids/Family",
+    "package": "Disney Pack",
+    "price": "$70",
+    "isActive": true,
+    "displayOrder": 34
+  },
+  {
+    "id": 35,
+    "name": "Disney",
+    "logo": "assets/logos/disney.png",
+    "category": "Kids/Family",
+    "package": "Disney Pack",
+    "price": "$70",
+    "isActive": true,
+    "displayOrder": 35
+  },
+  {
+    "id": 36,
+    "name": "Nickelodeon",
+    "logo": "assets/logos/mickelodeon.png",
+    "category": "Kids/Family",
+    "package": "Disney Pack",
+    "price": "$70",
+    "isActive": true,
+    "displayOrder": 36
+  },
+  {
+    "id": 37,
+    "name": "Animal Planet",
+    "logo": "assets/logos/animalplanet.png",
+    "category": "Discovery/Lifestyle",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 37
+  },
+  {
+    "id": 38,
+    "name": "Discovery Science",
+    "logo": "assets/logos/discoveryscience.png",
+    "category": "Discovery/Lifestyle",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 38
+  },
+  {
+    "id": 39,
+    "name": "Discovery Home & Health",
+    "logo": "assets/logos/discoveryhome&planet.png",
+    "category": "Discovery/Lifestyle",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 39
+  },
+  {
+    "id": 40,
+    "name": "Investigation Discovery",
+    "logo": "assets/logos/investigationdiscovery.png",
+    "category": "Discovery/Lifestyle",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 40
+  },
+  {
+    "id": 41,
+    "name": "Discovery",
+    "logo": "assets/logos/discovery.png",
+    "category": "Discovery/Lifestyle",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 41
+  },
+  {
+    "id": 42,
+    "name": "TLC",
+    "logo": "assets/logos/tlc.png",
+    "category": "Discovery/Lifestyle",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 42
+  },
+  {
+    "id": 43,
+    "name": "Discovery Turbo",
+    "logo": "assets/logos/discoveryturbo.png",
+    "category": "Discovery/Lifestyle",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 43
+  },
+  {
+    "id": 44,
+    "name": "OWN",
+    "logo": "assets/logos/own.png",
+    "category": "Discovery/Lifestyle",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 44
+  },
+  {
+    "id": 45,
+    "name": "Food Network",
+    "logo": "assets/logos/foodnetwork.png",
+    "category": "Discovery/Lifestyle",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 45
+  },
+  {
+    "id": 46,
+    "name": "Travel Channel",
+    "logo": "assets/logos/travelchannel.png",
+    "category": "Discovery/Lifestyle",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 46
+  },
+  {
+    "id": 47,
+    "name": "HGTV",
+    "logo": "assets/logos/hgtv.png",
+    "category": "Discovery/Lifestyle",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 47
+  },
+  {
+    "id": 48,
+    "name": "Nat Geo Wild",
+    "logo": "assets/logos/natgeowild.png",
+    "category": "Discovery/Lifestyle",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 48
+  },
+  {
+    "id": 49,
+    "name": "Warner",
+    "logo": "warner.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 49
+  },
+  {
+    "id": 50,
+    "name": "E!",
+    "logo": "assets/logos/e!.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 50
+  },
+  {
+    "id": 51,
+    "name": "AXN",
+    "logo": "axn.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 51
+  },
+  {
+    "id": 52,
+    "name": "Sony Movies",
+    "logo": "sonymovies.png",
+    "category": "Entertainment/Movies/Series ",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 52
+  },
+  {
+    "id": 53,
+    "name": "Studio Universal",
+    "logo": "studiouniversal.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 53
+  },
+  {
+    "id": 54,
+    "name": "Universal Studio",
+    "logo": "universalstudio.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 54
+  },
+  {
+    "id": 55,
+    "name": "SYFY",
+    "logo": "syfy.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 55
+  },
+  {
+    "id": 56,
+    "name": "GSN",
+    "logo": "gsn.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 56
+  },
+  {
+    "id": 57,
+    "name": "Grit Western",
+    "logo": "gritwestern.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Jamz Pack",
+    "price": "$40",
+    "isActive": true,
+    "displayOrder": 57
+  },
+  {
+    "id": 58,
+    "name": "TNT (LA)",
+    "logo": "tnt(la).png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Jamz Pack",
+    "price": "$40",
+    "isActive": true,
+    "displayOrder": 58
+  },
+  {
+    "id": 59,
+    "name": "TNT",
+    "logo": "tnt.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Jamz Pack",
+    "price": "$40",
+    "isActive": true,
+    "displayOrder": 59
+  },
+  {
+    "id": 60,
+    "name": "TCM (LA)",
+    "logo": "tcm(la).png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Jamz Pack",
+    "price": "$40",
+    "isActive": true,
+    "displayOrder": 60
+  },
+  {
+    "id": 61,
+    "name": "TCN {LA}",
+    "logo": "tcn{la}.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Jamz Pack",
+    "price": "$40",
+    "isActive": true,
+    "displayOrder": 61
+  },
+  {
+    "id": 62,
+    "name": "TBS",
+    "logo": "tbs.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 62
+  },
+  {
+    "id": 63,
+    "name": "Space",
+    "logo": "space.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 63
+  },
+  {
+    "id": 64,
+    "name": "TNT Series",
+    "logo": "tntseries.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 64
+  },
+  {
+    "id": 65,
+    "name": "FX",
+    "logo": "fx.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 65
+  },
+  {
+    "id": 66,
+    "name": "Cinecanal",
+    "logo": "cinecanal.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 66
+  },
+  {
+    "id": 67,
+    "name": "Comedy Central",
+    "logo": "comedycentral.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 67
+  },
+  {
+    "id": 68,
+    "name": "MTV",
+    "logo": "mtv.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 68
+  },
+  {
+    "id": 69,
+    "name": "BET",
+    "logo": "bet.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 69
+  },
+  {
+    "id": 70,
+    "name": "BET Her",
+    "logo": "bether.png",
+    "category": "Entertainment/Movies/Series",
+    "package": "Entertainment Elite",
+    "price": "$25",
+    "isActive": true,
+    "displayOrder": 70
+  },
+  {
+    "id": 71,
+    "name": "ESPN Caribbean 1",
+    "logo": "espncaribbean1.png",
+    "category": "Sports",
+    "package": "Screen Time Plus",
+    "price": "$35",
+    "isActive": true,
+    "displayOrder": 71
+  },
+  {
+    "id": 72,
+    "name": "ESPN Caribbean 2",
+    "logo": "espncaribbean2.png",
+    "category": "Sports",
+    "package": "Screen Time Plus",
+    "price": "$35",
+    "isActive": true,
+    "displayOrder": 72
   }
 ]
